@@ -1,1 +1,87 @@
-
+{
+	"WBUI2":
+	{
+		"settings":
+		{
+			"openbutton": 0,
+			"hideicon": false,
+			"hideiconafter": 60,
+			"iconurl": "https://i.imgur.com/ksYGRcZ.png",
+			"disableicontext": false,
+			"iconposition": 1,
+			"icontextcolor": 0,
+			"openonstart": true,
+			"openonstartonlynewplayers": true,
+			"updateinterval": 12
+		},
+		"tabs": [
+			{
+				"layout": 2,
+				"buttontext": "Welcome",
+				"imageurl": "https://i.imgur.com/PXAEaNg.png",
+				"content": [
+					{
+						"title": "Welcome to ATGC Ark",
+						"text": "<TextStyle.LightBlue>Welcome to the</> <TextStyle.Blue>A</><TextStyle.Green>T</><TextStyle.Red>G</><TextStyle.Blue>C</> <TextStyle.LightBlue>Ark Cluster.</>\r\n\r\nWe aim to make everything as fun as possible with friends. If you have ideas to make Ark more fun, feel free to let me (Delinson) know and I will look into it. I cannot promise everything will make it in, but I can promise there will be a discussion with the other admins."
+					},
+					{
+						"title": "<TextStyle.Red>Rules</>",
+						"text": "1) Be respectful to one another.\r\n2) No griefing.\r\n3) Report issues in Discord.\r\n4) Admins are players too, please keep that in mind before bugging them in game. Check Discord reports first."
+					}
+				]
+			},
+			{
+				"layout": 3,
+				"buttontext": "Tamable Bosses",
+				"imageurl": "https://i.imgur.com/PXAEaNg.png",
+				"content": [
+					{
+						"title": "Information",
+						"text": "This mod has a mini guide if you need it press R on PC, X on Xbox or Square on PlayStation.\r\n\r\nBosses come in 3 forms. Normal, Alpha and Overseer versions.\r\n\r\nThese bosses DO NOT spawn on The Island or Aberration. They can travel to those servers but will not spawn there. They are a lot harder and faster than normal creatures, and DO NOT count toward boss kills.\r\n\r\nAll bosses have Chibies, you must kill them to possibly get the drop."
+					},
+					{
+						"title": "Saddles",
+						"text": "Most of these require saddles. They unlock at certain levels.\r\n\r\nDragon - Level 65\r\nBroodmother - Level 65\r\nDodoRex - Level 96\r\nMegaphitecus - Level 65\r\nDodo Wyvern (Not Required) - Level 70\r\nManticore - Level 65\r\nMoeder - Level 65"
+					},
+					{
+						"title": "Dodo Wyvern",
+						"text": "Lightning Breath: Left Shoulder + DPadUp on Consoles or X on PC"
+					}
+				]
+			},
+			{
+				"layout": 2,
+				"buttontext": "Mod List",
+				"imageurl": "https://i.imgur.com/PXAEaNg.png",
+				"content": [
+					{
+						"title": "Mod List",
+						"text": "Super Spyglass Plus - Consumable - Info on Dinos / Structures / Drops.\r\nUtilities Plus - Reusables.\r\nDer Dino Finder - Dino Finder from your inventory map.\r\nDino Depot - Dino Storage and Passive Generation.\r\nGreenhouse Glass Fix - Makes greenhouse glass clear.\r\nAmazing Replicator - Tek Replicator that crafts everything.\r\nScibbles - Better Signs - Fixes things with signs and painting.\r\nStop the Steal Ascended - Stops dinos from stealing from you (unless you attack them).\r\nBetter Breeding - Makes sure Dinos get the best stats from each parent.\r\nBetter Dino healing - Bettering healing station and consumables to help heal dinos.\r\nEclectic - Adds a lot of things to help with early / late game stuff.\r\nDino Mindwipe - Allows resetting dinos back to original level.\r\nKyuubster's Taming and Breeding - Stronger Tanqs\r\nAuto Engrams! - Allows auto learning of all engrams. (Not Tek)\r\nColor Extractor - Allows you to collect and reuse colors from your dinos that you like.\r\nArkitect Structures Remastered - Different looking building pieces.\r\nPotions | Gaia Studios - Adds many different potions.\r\nAwesome Elevators - Early game elevators.\r\nNew Dino Cloner - Dino Cloner \r\nNanoh's Ascended Saddles - Adds better saddles for some dinos."
+					},
+					{
+						"title": "",
+						"text": "MarniiMods Hairstyles - Adds Hairstyles.\r\nOP Craftable Tek Stryder - This is an OP Tek Stryder <TextStyle.Red>DO NOT</> use the cannon.\r\nRandi's Animal Traps - Adds traps.\r\nGryphons - Adds two different types of Gryphons.\r\nTranq + - Adds better tranqs.\r\nImbue and Upgrade Station - Adds ability to upgrade gear and imbue some gear with stats.\r\nB+ Structures - Almost exactly like S+\r\nTamble Bosses - Adds tamable bosses.\r\nDino Upgrade Potions - Adds potions to help with maxing out Dinos.\r\nCreature Tiers - Adds the possiblility for creatures to be more powerful.\r\nJ-Teleporter - Adds teleporters."
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "Updates",
+				"imageurl": "https://i.imgur.com/PXAEaNg.png",
+				"content": [
+					{
+						"title": "Updates",
+						"text": "<TextStyle.Red>ATGC Ark Server Updates</>\r\n\r\n11/24/2024 - Added this mod."
+					}
+				]
+			}
+		],
+		"links": [
+			{
+				"text": "Discord",
+				"url": "https://ateamgc.org/discord"
+			}
+		],
+		"version": 2
+	}
+}
