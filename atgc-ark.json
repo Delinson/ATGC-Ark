@@ -3,8 +3,8 @@
 	{
 		"settings":
 		{
-			"openbutton": 0,
-			"hideicon": false,
+			"openbutton": 3,
+			"hideicon": true,
 			"hideiconafter": 60,
 			"iconurl": "https://i.imgur.com/ksYGRcZ.png",
 			"disableicontext": false,
