@@ -2,11 +2,11 @@
     "version": 2,
     "production": [
           {
-            "dinoType": "/Game/PrimalEarth/Dinos/Basilosaurus/Sheep_Character_BP.Sheep_Character_BP",
+            "dinoType": "/Game/PrimalEarth/Dinos/Sheep/Sheep_Character_BP.Sheep_Character_BP",
             "chanceToProduce": 1.0,
             "produces": [
                 {
-                    "intervalSeconds": 240.0,
+                    "intervalSeconds": 120.0,
                     "itemSelectMode": 0,
                     "items": [
                         {
