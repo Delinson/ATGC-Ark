@@ -26,7 +26,7 @@
             ]
         },
            {
-            "dinoType": "/Game/PrimalEarth/Dinos/Trilobite/Trilobite_Character_BP.Trilobite_Character_BP",
+            "dinoType": "/Game/PrimalEarth/Dinos/Trilobite/Trilobite_Character.Trilobite_Character",
             "chanceToProduce": 1.0,
             "produces": [
                 {
